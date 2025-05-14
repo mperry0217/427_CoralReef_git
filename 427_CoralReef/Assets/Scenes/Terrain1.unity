@@ -4945,17 +4945,17 @@ PrefabInstance:
     - target: {fileID: -8679921383154817045, guid: 5ea3be708b69b5041b284588c5e30fde,
         type: 3}
       propertyPath: m_LocalPosition.x
-      value: 137.4
+      value: 140.8
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: 5ea3be708b69b5041b284588c5e30fde,
         type: 3}
       propertyPath: m_LocalPosition.y
-      value: 216
+      value: 242
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: 5ea3be708b69b5041b284588c5e30fde,
         type: 3}
       propertyPath: m_LocalPosition.z
-      value: -261.1
+      value: -260.4
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: 5ea3be708b69b5041b284588c5e30fde,
         type: 3}
@@ -9808,17 +9808,17 @@ PrefabInstance:
     - target: {fileID: -8679921383154817045, guid: 5ea3be708b69b5041b284588c5e30fde,
         type: 3}
       propertyPath: m_LocalPosition.x
-      value: 283.7
+      value: 281.3
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: 5ea3be708b69b5041b284588c5e30fde,
         type: 3}
       propertyPath: m_LocalPosition.y
-      value: 199
+      value: 229.6
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: 5ea3be708b69b5041b284588c5e30fde,
         type: 3}
       propertyPath: m_LocalPosition.z
-      value: -164.5
+      value: -191.2
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: 5ea3be708b69b5041b284588c5e30fde,
         type: 3}
@@ -11578,6 +11578,7 @@ PrefabInstance:
     m_RemovedGameObjects:
     - {fileID: 65702495048144492, guid: dd6685cba1d088241a616d6de74e2ddc, type: 3}
     - {fileID: -8700617353114198275, guid: dd6685cba1d088241a616d6de74e2ddc, type: 3}
+    - {fileID: -8391222552659086748, guid: dd6685cba1d088241a616d6de74e2ddc, type: 3}
     m_AddedGameObjects: []
     m_AddedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: dd6685cba1d088241a616d6de74e2ddc, type: 3}
