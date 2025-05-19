@@ -1,6 +1,7 @@
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.SceneManagement;
 
 public class Player : MonoBehaviour
 {
@@ -35,5 +36,17 @@ public class Player : MonoBehaviour
     void OnTriggerEnter(Collider other)
     {
         Debug.Log("Scene Change");
+
+        if (SceneManager.GetActiveScene().name == "Terrain1")
+        {
+            SceneManager.LoadScene("Terrain 2");
+        }
+
+        if (SceneManager.GetActiveScene().name == "Terrain 2")
+        {
+            SceneManager.LoadScene("Terrain1");
+        }
     }
 }
+
+// credit to Omogonix on Youtube for rough outline of code //
